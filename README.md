@@ -25,10 +25,16 @@ After completing the course, the student should be able to:
 
 ## Teaching
 
-Teaching consists of lectures and seminars. The seminar dates and detailed course programme have not yet been published.
+Teaching consists of lectures and seminars.
 
 - Lecturer: Adela Zhang
+- Lectures: Tuesdays and Fridays, 15:15-17:00
+- Seminars: Fridays, 14:15-15:00, beginning in the second course week
+- The seminars discuss the exercise sheets from the preceding week
+- [Detailed course programme](https://canvas.education.lu.se/courses/42197/pages/detailed-course-program)
 - [TimeEdit schedule](https://cloud.timeedit.net/lu/web/n1/ri10Qy535Y6ZX7QZ57nZ35cQupwY017576956wYQQ644Q6Zg.html)
+
+The detailed programme is tentative and may be updated during the course.
 
 ## Assessment
 
@@ -43,6 +49,8 @@ Both examinations must be passed.
 
 The oral examination lasts approximately 45 minutes and contains roughly four questions from different parts of the course. The questions are primarily theoretical rather than computational. Students are expected to explain the mathematics orally and may use the blackboard, but should avoid spending too much of the limited examination time writing.
 
+The ordinary written examination takes place on 17 December 2026. Most oral examinations take place on 18 and 21 December 2026. Additional oral-examination times will be offered in mid-to-late January 2027, with exact dates to be announced.
+
 ## Grading
 
 The grading scale is Fail, Pass, and Pass with distinction.
@@ -51,7 +59,12 @@ Pass with distinction requires at least 75% of the combined maximum points from 
 
 ## Important dates
 
-The detailed course programme, seminar dates, and written and oral examination dates have not yet been published.
+- 2026-11-03 - First lecture: simple extensions
+- 2026-11-13 - First seminar
+- 2026-12-15 - Review and drop-in session
+- 2026-12-17 - Written examination
+- 2026-12-18 and 2026-12-21 - Main oral-examination dates
+- Mid-to-late January 2027 - Additional oral examinations; exact dates to be announced
 
 ## Course literature
 
@@ -78,10 +91,13 @@ The course may not be included in a degree together with MATM21 Specialised Cour
 
 ## Official course information
 
+- [Detailed course programme](https://canvas.education.lu.se/courses/42197/pages/detailed-course-program)
 - [Repository copy of the official syllabus](misc/syllabus-MATM41.pdf)
 - [TimeEdit schedule](https://cloud.timeedit.net/lu/web/n1/ri10Qy535Y6ZX7QZ57nZ35cQupwY017576956wYQQ644Q6Zg.html)
 
 ## Repository contents
 
-- [PLAN.md](PLAN.md) - official weekly course plan and review list
+- [PLAN.md](PLAN.md) - tentative weekly course plan and review list
+- [lectures/](lectures) - lecture notes
+- [exercises/](exercises) - exercise sheets
 - [misc/](misc) - official and supplementary course material
